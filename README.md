@@ -14,7 +14,7 @@ Clone the repo to your local machine. Run the following command to install the d
 
 ## Usage
 
-The app is deployed on Heroku and can be accessed [here](https://book-search-andres.herokuapp.com/).
+The app is deployed on Heroku and can be accessed [here](https://warm-temple-53110.herokuapp.com/).
 
 You can also deploy the app locally by running the following command:
 
